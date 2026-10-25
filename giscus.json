@@ -1,5 +1,5 @@
 {
-  "origins": [],
+  "origins": ["https://blog.p1nkpeach.site"],
   "originsRegex": ["^http://localhost:[0-9]+$"],
   "defaultCommentOrder": "oldest"
 }
